@@ -1,0 +1,8 @@
+== Tips and Tricks
+=== Compiler
+- Java compiler either does _implicit casting_ or _wrapping_, but **not** both.
+- _Implicit casting_ is done by compiler for **prefix**, **postfix** and **compound** operators.
+
+=== String
+- Strings are **immutable**
+- String concatenation is done at **compile time**

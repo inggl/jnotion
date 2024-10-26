@@ -1,0 +1,35 @@
+:package: ../src/main/java/com/github/inggl/jnotion/core
+
+== Core
+
+=== Variables
+:class_name: Variable.java
+.link:{package}/{class_name}[{class_name}]
+[source,java]
+----
+include::{package}/{class_name}[]
+----
+
+=== Data Types
+:class_name: DataType.java
+.link:{package}/{class_name}[{class_name}]
+[source,java]
+----
+include::{package}/{class_name}[]
+----
+
+=== Operators
+:class_name: Operators.java
+.link:{package}/{class_name}[{class_name}]
+[source,java]
+----
+include::{package}/{class_name}[]
+----
+
+=== Strings
+:class_name: Strings.java
+.link:{package}/{class_name}[{class_name}]
+[source,java]
+----
+include::{package}/{class_name}[]
+----
