@@ -1,9 +1,9 @@
 = Java Notion
-
-This project offers Java tips and tricks as a study guide and reference for certification preparation or interview.
-
 :toc:
 :toclevels: 2
+:source-highlighter: highlight.js
+
+This project offers Java tips and tricks as a study guide and reference for certification preparation or interview.
 
 include::tips-and-tricks.adoc[]
 

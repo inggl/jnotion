@@ -27,6 +27,7 @@
                         </goals>
                         <configuration>
                             <attributes>
+                                <highlightjs>highlightjs</highlightjs>
                                 <toc>left</toc>
                             </attributes>
                         </configuration>
